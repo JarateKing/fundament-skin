@@ -3,7 +3,8 @@
 A skin designed to be as minimalistic as possible
 
 ## Features
-* Minimalist design
+* Minimalist - most elements and sounds are removed if not necessary
+* Simple design - everything uses simple shapes and colors
 * Quick hitnumbers
 * Stationary healthbar
 
